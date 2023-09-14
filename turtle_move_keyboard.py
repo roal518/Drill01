@@ -9,3 +9,4 @@ def restart():
 turtle.shape('turtle')
 turtle.onkey(move_left,'d')
 turtle.onkey(restart,'Escape')
+turtle.listen()
