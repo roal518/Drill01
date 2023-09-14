@@ -1,7 +1,7 @@
 import turtle
 
 def move_left():
-    turtle.setheading(90)
+    turtle.setheading(0)
     turtle.forward(50)
     turtle.stamp()
 def restart():
