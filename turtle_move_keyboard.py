@@ -1,5 +1,5 @@
 import turtle
-
+#2020184027 이준영
 def move_left():
     turtle.setheading(180)
     turtle.forward(50)
